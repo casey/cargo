@@ -151,8 +151,7 @@ terminal.</li>
 
 
 <dt class="option-term" id="option-cargo-run---message-format"><a class="option-anchor" href="#option-cargo-run---message-format"></a><code>--message-format</code> <em>fmt</em></dt>
-<dd class="option-desc">The output format for diagnostic messages. Can be specified multiple times
-and consists of comma-separated values. Valid values:</p>
+<dd class="option-desc">The output format for diagnostic messages. Valid values:</p>
 <ul>
 <li><code>human</code> (default): Display in a human-readable text format.</li>
 <li><code>short</code>: Emit shorter, human-readable text messages.</li>
